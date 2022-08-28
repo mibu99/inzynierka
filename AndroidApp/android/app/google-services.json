@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1012971803250",
+    "firebase_url": "https://nfc-rfid-edca0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nfc-rfid-edca0",
+    "storage_bucket": "nfc-rfid-edca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012971803250:android:e02f2039f500213e66a8eb",
+        "android_client_info": {
+          "package_name": "com.rfid.nfc_rfid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012971803250-f9k8qf6tk8i9nmbldbprdhbeacc15ah7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQJCZ2IfOmKKw7FuWUKxSSi6tMfo52Z1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012971803250-f9k8qf6tk8i9nmbldbprdhbeacc15ah7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1012971803250-5ckkecloe9lchukl2nk73ebqvime3m7e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brewCrew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
